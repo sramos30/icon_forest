@@ -1,5 +1,18 @@
 # icon_forest
 
+## git@github.com:sramos30/icon_forest.git
+## https://github.com/iconforest/icon_forest
+## https://pub.dev/packages/icon_forest
+
+## https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons
+## https://api.flutter.dev/flutter/material/Icons-class.html
+## https://api.flutter.dev/flutter/material/IconButton-class.html
+## https://www.fluttericon.com/
+## https://pub.dev/packages/font_awesome_flutter
+
+## https://fonts.google.com/icons?selected=Material+Icons&icon.style=Outlined
+## https://icon.kitchen/
+
 - A collection of 160k+ icons from 230+ icon libraries.
 - It makes icons from all pub.dev packages searchable in one place.
 - You can search, select and apply the icons to your Flutter projects.
